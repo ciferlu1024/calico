@@ -1,2 +1,2 @@
 # calico
-calico/cni:v3.8.4
+calico/cni:v3.13.1
